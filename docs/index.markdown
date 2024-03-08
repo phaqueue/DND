@@ -9,5 +9,5 @@ permalink: /
 
 ## Here are the games I mainly play. I will add more in the future.
 
-![DND](./images/dnd.png)
-[DND](https://phaqueue.github.io/dnd)
+<img src="images/dnd.png" width="200">
+### [DND](https://phaqueue.github.io/dnd)
