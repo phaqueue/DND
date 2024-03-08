@@ -6,3 +6,8 @@ layout: home
 title: Games
 permalink: /
 ---
+
+## Here are the games I mainly play. I will add more in the future.
+
+![DND](./images/dnd.png)
+[DND](https://phaqueue.github.io/dnd)
