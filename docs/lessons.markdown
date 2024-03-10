@@ -25,3 +25,4 @@ permalink: /dnd/lessons
 ### &emsp; 6. Design fun combats. Some people may believe that long combats ruin their game experiences, so prove them wrong. With the help of some interesting mechanics, impose a disadvantage to your players, giving them a sense of hopelessness but also some hope of winning. When they gradually gain control of the combat and finally win, they will be overwhelmed by happiness and a sense of achievement.
 ### &emsp; 7. Never double-tap a PC if its player is absent. The player will highly likely be unhappy to see their PC's death when they have done nothing wrong.
 ### &emsp; 8. When introducing an important NPC, show the picture of them to the players also.
+### &emsp; 9. Expect your players to quit your campaign. It's a good idea to over-recruit before the campaign starts.

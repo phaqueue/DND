@@ -13,6 +13,11 @@ permalink: /dnd/
 <br/>
 <br/>
 
+## My Own Modules
+### &emsp; [The Golden Idol](https://phaqueue.github.io/dnd/module/the_golden_idol)
+
+<br/>
+
 ## My Campaigns (As a Player)
 ### &emsp; [Dragons of Stormwrack Isle](https://phaqueue.github.io/dnd/player/dragons_of_stormwrack_isle)
 ### &emsp; [West Marches 3](https://phaqueue.github.io/dnd/player/wm3)
@@ -22,11 +27,6 @@ permalink: /dnd/
 
 ## My Campaigns (As a DM)
 ### &emsp; [The Wolves of Welton](https://phaqueue.github.io/dnd/dm/the_wolves_of_welton)
-
-<br/>
-
-## My Modules
-### &emsp; [The Golden Idol](https://phaqueue.github.io/dnd/module/the_golden_idol)
 
 <br/>
 
