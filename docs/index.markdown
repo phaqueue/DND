@@ -14,3 +14,16 @@ permalink: /
 
 ![DND](./images/dnd.png){:width='250'}
 ### &emsp;&emsp;&emsp;&emsp;&emsp;[DND](https://phaqueue.github.io/dnd)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Here is my working experience as a Game Designer.
+
+<br/>
+<br/>
+
+![Shengqu Games](./images/shengqu.png){:width='250'}
+### &emsp;&emsp;&emsp;&emsp;&emsp;[Shengqu Games](https://phaqueue.github.io/shengqu)
