@@ -26,3 +26,5 @@ permalink: /dnd/lessons
 ### &emsp; 7. Never double-tap a PC if its player is absent. The player will highly likely be unhappy to see their PC's death when they have done nothing wrong.
 ### &emsp; 8. When introducing an important NPC, show the picture of them to the players also.
 ### &emsp; 9. Expect your players to quit your campaign. It's a good idea to over-recruit before the campaign starts.
+### &emsp; 10. Preparing your campaign takes a lot of time, especially when you have little experience. Plan to start your campaign at least one month after you have gathered your players.
+### &emsp; 11. Remember to find a location to run the game. This location may be hard to find, while new DMs (like me) may ignore this.

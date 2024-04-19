@@ -27,6 +27,7 @@ permalink: /dnd/
 
 ## My Campaigns (As a DM)
 ### &emsp; [The Wolves of Welton](https://phaqueue.github.io/dnd/dm/the_wolves_of_welton)
+### &emsp; [The Sunless Citadel](https://phaqueue.github.io/dnd/dm/the_sunless_citadel)
 
 <br/>
 
