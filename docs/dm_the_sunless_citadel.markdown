@@ -19,17 +19,45 @@ permalink: /dnd/dm/the_sunless_citadel
 ### &emsp; Race: Half-elf
 ### &emsp; Alignment: Neutral Good
 ### &emsp; Background: She had a happy childhood, until her hometown was destroyed and her family was slaughtered when she was 11. She was saved and then raised by an old priest. Nine years later, after the old priest died, she decided to seek vengeance. The Cult of Bhaar offered her help, and trained her to assassinate her "foes". Several years later, when she realized that she was in fact used by the cult, she left without the approval of the head of the cult, and she was hunted by the cultists since then.
-### &emsp; Character Development: ...
+### &emsp; Character Development: After being stabbed by the assassin, she learned not to trust others easily. 
 
 <br>
 
 ## PC2:
-### &emsp; Name: 唐吉诃德
-### &emsp; Class: Hunter Ranger
-### &emsp; Race: Human
+### &emsp; Name: Nacht Saiss
+### &emsp; Class: Druid
+### &emsp; Race: Tiefling
+### &emsp; Alignment: Neutral? Good
+### &emsp; Background: He was a son to a human and a tiefling, and he was raised in a village of human. Naturally, he was considered as a monster, so no one would like to talk to him or hang out with him. Luckily, he found living in the forest and playing with animals fun, which was why he decided to become a druid later. When he reached his adulthood, he left his hometown and started his adventure. 
+### &emsp; Character Development: ...
+
+<br>
+
+## PC3:
+### &emsp; Name: R1
+### &emsp; Class: Artificer
+### &emsp; Race: Tiefling
+### &emsp; Alignment: Chaotic Neutral
+### &emsp; Background: He was a gangster who was not good at fighting but machinery. He had always wanted to found a religion(cult) that worships machinery, so one day he left the gang and started his adventure to promote his religion and find his followers...
+### &emsp; Character Development: ...
+
+<br>
+
+## PC4:
+### &emsp; Name: 钟鸣
+### &emsp; Class: Monk
+### &emsp; Race: Fire Genasi
 ### &emsp; Alignment: Neutral Good
-### &emsp; Background: He was raised by his grandfather in an isolated island. As superb fishermen, they had managed to catch lots of rare and large fish, which would be sold to merchants who would sail to the island occationally. One day, 唐吉诃德 was tired of living in the island, so he decided to leave his grandfather and visit the town nearby, where 狼8 lives.
-### &emsp; Character Development: None. It's a one-shot.
+### &emsp; Background: She was a raised in a temple, and she had a happy childhood. However, a war broke out when she was 11, and her brothers and sisters volunteered to enlist. Unfortunately, her country was losing, so she and her family had to leave their country. To make a living, they had to work as mercenaries. When she reached her adulthood, her brother showed her a token left by her biological parents, which has a symbol of a genasi kingdom. The next day, she left them and started her adventure to find her parents.
+### &emsp; Character Development: ...
+
+## PC5:
+### &emsp; Name: Ricker
+### &emsp; Class: Fighter
+### &emsp; Race: Drow
+### &emsp; Alignment: Chaotic? Good
+### &emsp; Background: He and his childhood friend were raised by his grandmother, but they were caught and sold by a slave broker after his grandmother's death when they were only 13. Several years later, they found a chance to escape, but his childhood friend betrayed him and left him alone. Ricker did not give up, and 3 more years later, he got a chance to come with his master to the ground. An old pirate found him by chance and bought him so that Ricker could work for him. However, the pirate died because of an accident, so Ricker had to start his adventure on the ground, though he might not like the sunshine.
+### &emsp; Character Development: ...
 
 ## Plotline:
-### One day, 狼8 saw the quest of evicting wolves in a nearby village. He wanted to accept the quest, but the receptionist, Mr. Smith, was absent. He was told that Mr. Smith was probably drinking in the bar. He had a hard time finding Mr. Smith as well as waking him up. By the time Mr. Smith woke up, 唐吉诃德 found 狼8 and asked him to repair and enhance his fishing tools. Mr. Smith then asked 唐吉诃德 to join the mission with 狼8. He agreed, so they headed to the village in the afternoon. They found several wolves attacking a shepherd midway. They helped him drive the wolves away, and the shepherd led them to the village. The adventurers learned that the wolves in the forest suddenly became intelligent recently, around the time when the Father's brother disappeared. They had then become a major threat to the village, so the council organized an attack on the wolves' nest, but everyone except a halfling was never heard of since then, who was found unconscious in front of the tavern, probably as a sign of warning. The Halfling also lost his mind after he woke up, so no one knew the truth. The adventurers spent time gathering intel for the rest of the day, and they traveled to the forest early in the morning the next day. They accidentally found and woke up an owlbear in the forest. The owlbear was hurt badly by the wolves and was persuaded by 唐吉诃德 to join them. Tbc...
+### Session 1: The adventurers arrived at the village and they all joined the mission to rescue the missing siblings. The owner of the inn hosted a bonfire party for them at night, where the adventurers also met a poor peasant who wanted to join them and earn fast money to save his ill mother. The adventurers embarked on the mission the next day and they were ambushed by four twig blights. Our adventurers finished them with ease, though the peasant was freaked out and climbed onto a branch of a tall tree. While the others were searching for loot, our paladin went to the tree and helped the peasant climb down. The peasant thanked her and claimed to give her a ring as a gift, but he pulled out a dagger instead from his pouch, and stabbed the paladin. The peasant then revealed himself: he was actually an assassin who was sent to hunt down the paladin. The paladin was instantly knocked out, and the remaining adventurers had to defend themselves. The assassin wanted to use the nearby bush and trees to hide himself, but the druid and the artificer set them on fire. In the end, the assassin was killed, and the adventurers found 2 daggers with patterns associated with Bhaar, and a magical ring as well.

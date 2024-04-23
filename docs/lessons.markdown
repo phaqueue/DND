@@ -28,3 +28,4 @@ permalink: /dnd/lessons
 ### &emsp; 9. Expect your players to quit your campaign. It's a good idea to over-recruit before the campaign starts.
 ### &emsp; 10. Preparing your campaign takes a lot of time, especially when you have little experience. Plan to start your campaign at least one month after you have gathered your players.
 ### &emsp; 11. Remember to find a location to run the game. This location may be hard to find, while new DMs (like me) may ignore this.
+### &emsp; 12. Don't underestimate your players. Just throw stronger enemies on them.
